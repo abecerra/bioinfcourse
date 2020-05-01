@@ -1,2 +1,4 @@
 # bioinfcourse
-Bioinformatics course
+
+Repository for the Bioinformatics course
+
