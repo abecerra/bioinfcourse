@@ -31,17 +31,19 @@ https://bioconda.github.io/user/install.html#set-up-channels
 13. In spyder create a new file "step0.py", save it in a folder for the course.
 
 12. Type the following and save the program, and fix it if needed:
+```python
     def holamundo():
         print("Hola a todo el mundo")
-        
+```        
 13. Execute the program
 
 14. Do the same with new file "step1.py":
+```python
     def sqrt(x):
         return x ** 2
     
     for i in range(10):
         print( i, sqrt(i) )
-        
+```        
         
 15. Do not worry if you are not understanding everything or can not execute the programs.
